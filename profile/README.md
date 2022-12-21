@@ -5,10 +5,11 @@ and spectroscopic tools to enable users to build fast models of integrated absor
 of the atmosphere. 
 
 
-GRIPS is a collaboration among the
-[Lamont-Doherty Earth Observatory at Columbia University](https://crew.ldeo.columbia.edu), 
-[NOAA's Geosphysical Fluid Dynamics Laboratory](https://gfdl.noaa.gov), 
-[Atmospheric and Environmental Research](https://rtweb.aer.com), 
-the [Meteorological Institute at the University of Hamburg](https://www.mi.uni-hamburg.de/en.html), 
-and the [National Center for Atmospheric Research](https://staff.ucar.edu/users/brianpm). 
+GRIPS is a collaboration among 
+- the [Lamont-Doherty Earth Observatory at Columbia University](https://crew.ldeo.columbia.edu)
+- [NOAA's Geosphysical Fluid Dynamics Laboratory](https://gfdl.noaa.gov)
+- [Atmospheric and Environmental Research](https://rtweb.aer.com)
+- the [Meteorological Institute at the University of Hamburg](https://www.mi.uni-hamburg.de/en.html)
+- the [National Center for Atmospheric Research](https://staff.ucar.edu/users/brianpm). 
 
+GRIPS is funded by the US National Science Foundation (award AGS 19-16908) and the US National Oceanic and Atmospheric Administration (award NA200AR4310375). 
