@@ -6,9 +6,9 @@ of the atmosphere.
 
 
 GRIPS is a collaboration among the
-Lamont-Doherty Earth Observatory at Columbia University, 
-NOAA's Geosphysical Fluid Dynamics Laboratory, 
-Atmospheric and Environmental Research, 
-the University of Hamburg, 
-and the National Center for Atmospheric Research. 
+[Lamont-Doherty Earth Observatory at Columbia University](https://crew.ldeo.columbia.edu), 
+[NOAA's Geosphysical Fluid Dynamics Laboratory](https://gfdl.noaa.gov), 
+[Atmospheric and Environmental Research](https://rtweb.aer.com), 
+the [Meteorological Institute at the University of Hamburg](https://www.mi.uni-hamburg.de/en.html), 
+and the [National Center for Atmospheric Research](https://staff.ucar.edu/users/brianpm). 
 
